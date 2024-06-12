@@ -1,0 +1,30 @@
+.header{
+    width: 100vw;
+    height: 15vh;
+    background-color: white;
+    overflow: hidden;
+}
+
+.title{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transform: translate(4vw, 2vh);
+    font-size: 7vh;
+    color: rgb(38, 0, 63);
+}
+
+.subtitle{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transform: translate(4.3vw, 2vh);
+    font-size: 3vh;
+    color: rgb(38, 0, 63);
+}
+
+.flex-container{
+    display: flex;
+}
+
+.linkedIn-icon {
+    width: auto;
+    height: 6vh;
+    transform: translate(75vw, -3vh);
+}
